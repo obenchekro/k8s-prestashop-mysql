@@ -1,0 +1,6 @@
+resources:
+  - secrets.yaml
+  - configmap.yaml
+  - prestashop-deploy.yaml
+  - mysql-deploy.yaml
+  - namespace.yaml
